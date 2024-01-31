@@ -1,7 +1,7 @@
 ## Olá! Eu sou o George Alves!
 
-- 🤘 Treinamento **Full Stack JavaScript** (One Bit Code) in progress
-- 💻 Técnico em **Desenvolvimento de sistemas** (Senai  SC) in progress
+- 🤘 Treinamento **Full Stack JavaScript** (One Bit Code)
+- 💻 Técnico em **Desenvolvimento de sistemas** (Senai  SC)
 
 ## Acompanhe minhas redes sociais ✌️
 <div> 
@@ -19,4 +19,8 @@
   <img align="center" alt="-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
+  <img align="center" alt="-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+
+
 </div>
