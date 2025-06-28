@@ -1,7 +1,7 @@
 ## Olá! Eu sou o George Alves!
 
-- 🤘 Treinamento **Full Stack JavaScript** (One Bit Code)
 - 💻 Técnico em **Desenvolvimento de sistemas** (Senai  SC)
+- 🎓 Granduando em Engenharia de Software (Granfaculdade)
 
 ## Acompanhe minhas redes sociais ✌️
 <div> 
